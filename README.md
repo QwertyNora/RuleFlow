@@ -76,7 +76,7 @@ RuleFlow.sln
 5. The pipeline combines all rule results into a PipelineResult.
 6. You can then use this result in your app (UI message, stopping flow, etc.).
 
-## SOLD + Patterns used:
+## SOLID + Patterns used:
 
 | Concept                     | How it appears in RuleFlow                             |
 | --------------------------- | ------------------------------------------------------ |

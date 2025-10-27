@@ -7,7 +7,7 @@ using RuleFlow.Core.Rules;
 
 var context = new UserRegistration(
     email: "example@example.com",
-    password: "supersafepassword"
+    password: "hello"
 );
 
 IPipeline<UserRegistration> pipeline = new PipelineBuilder<UserRegistration>()
